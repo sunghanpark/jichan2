@@ -1,8 +1,6 @@
-streamlit
-opencv-python-headless
-mediapipe==0.10.8
-numpy
-pandas
-Pillow
-matplotlib
-scikit-learn
+libgl1
+libglib2.0-0
+libsm6
+libxext6
+libxrender1
+libxrender-dev
